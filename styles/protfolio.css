@@ -140,3 +140,24 @@ main section{
     border-radius: 5px;
 
 }
+
+/* resume container styles */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-bottom: 20px;
+}
+
+.experience-discription , .experience-sub-title{
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-downlod-cv{
+    margin-top: 50px;
+}
